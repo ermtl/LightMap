@@ -11,7 +11,7 @@ object MainForm: TMainForm
   object ExitBtn: TButton
     Left = 8
     Height = 25
-    Hint = 'This software is Copyright 2014 by Eric Vinter and is distributed under the terms of the GNU General Public License.'
+    Hint = 'This software is Copyright 2014 by Eric Vinter and is distributed under the terms of the GNU General Public License.'#13#10'https://github.com/ermtl/LightMap '
     Top = 520
     Width = 123
     Anchors = [akLeft, akBottom]
