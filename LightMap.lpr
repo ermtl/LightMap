@@ -1,7 +1,7 @@
 program LightMap;
 
 {
-  This software is Copyright 1988-2014 by Eric Vinter and is
+  This software is Copyright 2014 by Eric Vinter and is
   distributed under the terms of the GNU General Public License.
 
   This program is free software; you can redistribute it

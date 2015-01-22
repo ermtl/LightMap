@@ -28,10 +28,23 @@
   Using a white paper with a set of marked locations will give a good positional 
   repeatability for the measurements.
  
-  This code is provided as is without any warranty, under CC BY SA liscence.
+  This software is Copyright 1988-2014 by Eric Vinter and is distributed under the 
+  terms of the GNU General Public License.
 
-  modified 15 jan 2015
-  by Eric Vinter
+  This program is free software; you can redistribute it and/or modify it under the 
+  terms of the GNU General Public License as published by the Free Software Foundation;
+  either version 2 of the License, or any later version.
+
+  This program is distributed in the hope that it will be useful, but WITHOUT ANY 
+  WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR 
+  A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License along with this 
+  program. If not, see < http://www.gnu.org/licenses/ >.
+
+
+  Contact: https://github.com/ermtl/LightMap   
+
  */
  
  const int PhotoresistorPin = A7; // Pin where the photoresistor is connected (to the ground, with 18Ko pullup resistor)
